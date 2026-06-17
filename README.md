@@ -1,3 +1,4 @@
+![Dashboard Preview](dashboard_screenshot.png)
 # Expense Analytics Dashboard
 
 ## Overview
